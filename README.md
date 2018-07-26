@@ -1,2 +1,2 @@
 # PTG_German_Credit_Data
-German Credit Data from UCI ML dataset-okay!
+German Credit Data from UCI ML dataset
