@@ -15,6 +15,8 @@ File Descriptions:
   -----1.4 EDA
   
   -----1.5 Features Correlation
+
+  -----1.5 Predictive Modelling
   
 2. Research_GCS.ipynb
 
