@@ -10,11 +10,15 @@ File Descriptions:
   1.3 Tidying Data
   1.4 EDA
   1.5 Features Correlation
+  
 2. Research_GCS.ipynb
   2.1 Variable Description
   2.2 University links
   2.3 Blog resources
   2.4 Kaggle resources
+  
 3. Test_Requirements.ipynb
+
 4. default_of_credit_card_clients.xls
+
 5. README.md
