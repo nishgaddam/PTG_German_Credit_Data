@@ -16,7 +16,7 @@ File Descriptions:
   
   -----1.5 Features Correlation
 
-  -----1.5 Predictive Modelling
+  -----1.6 Predictive Modelling
   
 2. Research_GCS.ipynb
 
